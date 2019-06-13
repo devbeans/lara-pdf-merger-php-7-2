@@ -27,7 +27,7 @@
     "homepage" : "https://github.com/devbeans/lara-pdf-merger-php-7-2",
     "autoload": {
         "psr-4": {
-            "Devbeans\\LaraPdfMerger\\": "src/"
+            "Nextek\\LaraPdfMerger\\": "src/"
         }
     }
 }

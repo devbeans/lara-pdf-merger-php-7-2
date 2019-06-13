@@ -12,7 +12,7 @@ Fixed error in tcpdf.php line 17784
 
 Require this package in your composer.json and update composer.
 
-    "rfookune/lara-pdf-merger-php-7-2": "dev-master",
+    "devbeans/lara-pdf-merger-php-7-2": "dev-master",
 
 After updating composer, add the ServiceProvider to the providers array in config/app.php
 

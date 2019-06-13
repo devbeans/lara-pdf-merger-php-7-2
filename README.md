@@ -1,10 +1,10 @@
 # lara-pdf-merger
 
-Original written by Michael Musso https://github.com/LynX39 (https://github.com/deltaaskii/lara-pdf-merger)<br/>
+Taken from Rhyan Foo Kune's version with a minor fix in the switch statement where it's using continue instead of break statement<br/>
 
 ###Update
 
-Changed each() to foreach -> each() DEPRECATED in PHP 7.2 
+Fixed error in tcpdf.php line 17784
   
 ## Installation
 
